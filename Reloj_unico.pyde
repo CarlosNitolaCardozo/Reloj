@@ -32,3 +32,12 @@ def draw() :
         x = 0
     else:
         x = map(hour(), 0, 24, 0, height)
+        
+        
+        
+        
+        puyoleeteeeeeeeeeeeeeeeeeeeeeee
+        
+        
+        
+       
